@@ -1,0 +1,3 @@
+/home/benxiaohai/桌面/GAMES101/实验/pa0/build/CMakeFiles/Transformation.dir
+/home/benxiaohai/桌面/GAMES101/实验/pa0/build/CMakeFiles/edit_cache.dir
+/home/benxiaohai/桌面/GAMES101/实验/pa0/build/CMakeFiles/rebuild_cache.dir

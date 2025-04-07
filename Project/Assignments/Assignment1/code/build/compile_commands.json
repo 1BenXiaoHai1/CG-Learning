@@ -1,0 +1,20 @@
+[
+{
+  "directory": "F:/Learning/postgraduate/GAMES101/Assignments/Assignment1/code/build",
+  "command": "F:\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\main.obj -c F:\\Learning\\postgraduate\\GAMES101\\Assignments\\Assignment1\\code\\main.cpp",
+  "file": "F:/Learning/postgraduate/GAMES101/Assignments/Assignment1/code/main.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/main.obj"
+},
+{
+  "directory": "F:/Learning/postgraduate/GAMES101/Assignments/Assignment1/code/build",
+  "command": "F:\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\rasterizer.obj -c F:\\Learning\\postgraduate\\GAMES101\\Assignments\\Assignment1\\code\\rasterizer.cpp",
+  "file": "F:/Learning/postgraduate/GAMES101/Assignments/Assignment1/code/rasterizer.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/rasterizer.obj"
+},
+{
+  "directory": "F:/Learning/postgraduate/GAMES101/Assignments/Assignment1/code/build",
+  "command": "F:\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Triangle.obj -c F:\\Learning\\postgraduate\\GAMES101\\Assignments\\Assignment1\\code\\Triangle.cpp",
+  "file": "F:/Learning/postgraduate/GAMES101/Assignments/Assignment1/code/Triangle.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/Triangle.obj"
+}
+]

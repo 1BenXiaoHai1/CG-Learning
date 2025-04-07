@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "F:/Learning/postgraduate/GAMES101/Assignments/Assignment1/code",
+    "files.associations": {
+        "sstream": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp"
+    }
+}
